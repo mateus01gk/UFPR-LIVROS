@@ -1,4 +1,23 @@
 html {
+  background-color: 
+  #8a00e0;
   height: 100%;
   width: 100%;
+  
+}
+
+.principal{
+  background-color: #e4e5e7;
+  text-align: center;
+  p{
+    font-size: 35px;
+  } 
+  img{
+    height: 40%;
+  }
+
+}
+#img{
+  height: 40%
+  ;
 }
